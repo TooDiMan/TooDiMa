@@ -1,1 +1,83 @@
-username.github.io
+.logo img {
+    max-height: 50.98px;
+    max-width: 205.01px;
+}
+header {
+    display: flex; 
+    background-color: white;
+}
+body.theme_3 .sf-menu a, body.theme_3 .sf-menu li.megamenu .block-title, body.theme_3 .top-bar ul li ul.dropdown-menu li a {
+    color: #000000;
+}
+body.theme_3 .header .navigation-wrapper, body.theme_3 .sf-menu .megamenu li.sfHover, body.theme_3 .sf-menu ul li {
+    background-color: #ffffff;
+}
+header {
+    display: flex;
+    background-color: white;
+}
+
+.header-style-4 #cart, .header-style-4 #cart:active, .header-style-4 #cart:focus {
+    background: transparent;
+    border-color: #a6a7a8;
+    color: #000000;
+}
+
+.header-nav-4 .nav.sf-menu {
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+}
+
+.sf-menu.nav>li>a {
+    padding: 13px 15px;
+    text-align: center;
+}
+.nav {
+    display: flex;
+    flex-wrap: nowrap;
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+    align-items: center;
+    flex-direction: row;
+}
+.header-style-4 #cart
+
+.header .header-search button i {
+    font-weight: 400;
+    display: none;
+}
+body.ltr .wrapper .header .header-search button {
+    left: auto;
+    right: 0;
+    display: none;
+}
+body.ltr .cart-wrapper {
+    margin-left: 0;
+    margin-right: auto;
+}
+ body span {
+    font-family: Hauss,sans-serif;
+display:none;
+}
+.header-style-4 #cart {
+    border: none;
+float:right;
+}
+body.theme-gray .header {
+    border-bottom: none;
+}
+header {
+    display: flex;
+    background-color: white;
+    align-items: stretch;
+    /* flex-direction: row; */
+    justify-content: center;
+}
+.header .header-search .form-control {
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+    display: none;
+}
